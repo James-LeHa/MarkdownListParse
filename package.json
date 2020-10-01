@@ -14,7 +14,7 @@
     "index": "index.js"
   },
   "dependencies": {
-    "@actions/core": "^1.2.4",
+    "@actions/core": "^1.2.6",
     "@actions/github": "^2.2.0",
     "@octokit/action": "^2.7.1",
     "markdown-it": "^10.0.0",
